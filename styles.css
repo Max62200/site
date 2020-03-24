@@ -5,7 +5,7 @@ body{
 	color:#6a6969;
 }
 h1{font: 400 58px/60px 'Bree Serif', Georgia, serif; color:#0c0658;}
-h2{font: 400 18px/22px 'Bree Serif', Georgia, serif; color:##0c0658;}
+h2{font: 400 18px/22px 'Bree Serif', Georgia, serif; color:##0c0658;text-decoration:underline;}
 h3{font: 400 14px/16px 'Bree Serif', Georgia, serif; color:#6a6969;}
 ul{margin:0px; padding:0px;}
 a {text-decoration:none; color:#0c0658;}
